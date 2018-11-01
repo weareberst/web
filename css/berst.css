@@ -1,11 +1,11 @@
 html,body {height: 100%}
 
 body {
-	background: #122658 url(../img/triangle-bg.png) no-repeat left bottom;
+	background: #122658 url(../img/triangle-bg-bl.png) no-repeat left bottom;
 	}
 	
 p {color: white; font-size: 1.2em;}
 
-h1 {position: absolute; left: 40px; bottom: 40px;}
+h1 {position: absolute; left: 36px; bottom: 16px;}
 
 div.grid-lg {border: 1px yellow solid;}
