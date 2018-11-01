@@ -28,7 +28,7 @@ a {color:#FF3464;}
 */
 
 #wrapper {
-	border: 1px yellow solid;
+
 	height: 100%;
 	display: flex;
   align-items: start;
@@ -38,5 +38,5 @@ a {color:#FF3464;}
 #centerbox {
 	width: 70%;
 	margin-top: 9em;
-  border: 1px red solid;
+
 	}
