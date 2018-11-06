@@ -1,2 +1,3 @@
-# web
-Website
+# This is the Berst website
+
+Hi!
