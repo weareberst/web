@@ -5,7 +5,7 @@ body {
 	}
 
 p {font-family: 'Muli', sans-serif; color: white;}
-p.intro {font-family: 'Space Mono', monospace; font-size:1.4em; margin-top: 2em;}
+p.intro {font-family: 'Space Mono', monospace; font-size:1.4em; margin-top: .8em;}
 
 h1 {position: absolute; right: 58px; top: 58px;}
 
