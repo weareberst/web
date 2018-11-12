@@ -7,7 +7,8 @@ p.intro {font-family: 'Space Mono', monospace; font-size:1.4em; margin-top: 1.2e
 
 h1 {position: absolute; right: 58px; top: 58px;}
 
-a {color:#FF3464;}
+a { color: #FF3464;}
+a:hover, a:active, a:focus, a:visited  { color: #FF3464;}
 
 #wrapper {
 	height: 100%;
